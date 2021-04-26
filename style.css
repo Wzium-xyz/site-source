@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Original+Surfer&display=swap');
+body {
+    background-color: aqua;
+}
+.main {
+    background-color: coral;
+    margin-top: 7%;
+    margin-left: 22%;
+    width: 700px;
+    height: 700px;
+}
+.h1-wzium {
+    color: greenyellow;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+.p-wzium {
+    color: greenyellow;
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Original Surfer', cursive;
+}
+.nav {
+    display: block;
+}
+    .navbar {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+      }
+      
+        .nav-item {
+            float: left;
+        }
+        
+        .nav-item a {
+            font-family: 'Roboto', sans-serif;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        
+        .nav-item a:hover {
+            background-color: #111;
+        }
+        .wziumtek-logo {
+            height: 20px;
+            width: 20px;
+        }
+.komenda {
+    font-family: 'Roboto', sans-serif;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
